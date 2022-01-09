@@ -3,7 +3,8 @@
         {
             "id": 0,
             "description": "My NFT",
-            "image": "https://gateway.pinata.cloud/ipfs/QmXS3Fv9CUvZD4gjxi4kPYWHkhfHJLEAsnrwrH2mqxdLgC/0.png",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "My NFT 0"
         },
         {
