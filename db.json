@@ -23,7 +23,7 @@
             "id": 3,
             "description": "My NFT",
             "image": "https://gateway.pinata.cloud/ipfs/QmXS3Fv9CUvZD4gjxi4kPYWHkhfHJLEAsnrwrH2mqxdLgC/3.png",
-            "animation_url": "https://gateway.pinata.cloud/ipfs/Qmf6gJG7XYvcFTnR9gU6a8oB6UufEuLHARkrjb5fe4aB8z/OilCan.glb"
+            "animation_url": "https://gateway.pinata.cloud/ipfs/Qmf6gJG7XYvcFTnR9gU6a8oB6UufEuLHARkrjb5fe4aB8z/OilCan.glb",
             "name": "My NFT 3"
         }
     ]
